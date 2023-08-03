@@ -1,0 +1,25 @@
+/* Add this CSS in your style.css or App.css file */
+.movie-details-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: black;
+    border-radius: 30px;
+    border: 1px solid ;
+    border-radius: 40px;
+  }
+  
+  .poster img {
+    max-width: 100px; /* Set the maximum width for the poster */
+  }
+  
+  .details {
+    flex: 0.5;
+    font-size: 30px;
+  }
+  .navlink{
+    font-size: 30px;
+    margin: 20px;
+    padding: 5px;
+    background-color: blue;
+  }
